@@ -1,0 +1,33 @@
+Patient ID: 1
+Name: Ramya
+Email: ramya@gmail.com
+Patient ID: 2
+Name: Anu
+Email: anu@gmail.com
+Patient ID: 2
+Name: Anu
+Email: anu@gmail.com
+Patient ID: 1
+Name: chinni
+Email: chinni@gmail.com
+-----------------------------
+Patient ID: 1
+Name: chinni
+Email: chinni@gmail.com
+-----------------------------
+Patient ID: 1
+Name: rams
+Email: rams@gmail.com
+-----------------------------
+Patient ID: 1
+Name: s
+Email: s@gmsil.com
+-----------------------------
+Patient ID: 1
+Name: rupa
+Email: rupa@gmail.com
+-----------------------------
+Patient ID: 1
+Name: maha
+Email: maha@gmail.com
+-----------------------------

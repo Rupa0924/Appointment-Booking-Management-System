@@ -1,0 +1,15 @@
+Doctor ID: 1
+Name: santhu
+Email: santhu@gmail.com
+Specialization: heart
+-----------------------------
+Doctor ID: 1
+Name: santhu
+Email: santhu@gmail.com
+Specialization: heart
+-----------------------------
+Doctor ID: 2
+Name: chinni
+Email: chinni@gmail.com
+Specialization: eye
+-----------------------------
